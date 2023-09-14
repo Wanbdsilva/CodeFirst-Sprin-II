@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\WebApi.Inlock_games_dbFirst_manha.props" />
+</Project>
